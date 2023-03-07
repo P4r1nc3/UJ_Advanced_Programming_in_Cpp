@@ -19,4 +19,4 @@
  * Funkcja wirtualna to metoda w klasie, która może być przesłonięta przez metody w klasach pochodnych.
  * Dzięki temu, wywołanie metody wirtualnej na obiekcie klasy pochodnej spowoduje wywołanie odpowiedniej metody w klasie pochodnej,
  * a nie w klasie bazowej. Funkcje wirtualne są często używane w celu zapewnienia polimorfizmu dynamicznego.
- */
+*/
